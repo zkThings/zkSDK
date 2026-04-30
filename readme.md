@@ -121,8 +121,8 @@ PRs welcome! Check our [Contributing Guide](CONTRIBUTING.md).
 ## Support
 
 - [Documentation](https://zksdk.io)
-- [GitHub Issues](https://github.com/zkthings/proofmembership-evm/issues)
+- [GitHub Issues](https://github.com/zkThings/proofOfMembership-evm/issues)
 
 ## License
 
-MIT © [zkThings](https://github.com/zkthings)
+MIT © [zkThings](https://github.com/zkThings)
